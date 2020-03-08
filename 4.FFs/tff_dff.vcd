@@ -1,0 +1,126 @@
+$date
+	Sun Mar  1 17:00:54 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_tff_dff $end
+$var wire 1 ! Q $end
+$var reg 1 " Clk $end
+$var reg 1 # T $end
+$var reg 1 $ rst $end
+$scope module tff1 $end
+$var wire 1 " Clk $end
+$var wire 1 % D $end
+$var wire 1 # T $end
+$var wire 1 $ rst $end
+$var wire 1 ! Q $end
+$scope module dff $end
+$var wire 1 " Clk $end
+$var wire 1 % D $end
+$var wire 1 $ rst $end
+$var reg 1 ! Q $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x%
+1$
+0#
+0"
+x!
+$end
+#1
+0%
+0!
+0$
+#2
+1$
+#5
+1"
+#8
+1%
+1#
+#10
+0"
+#15
+0%
+1!
+1"
+#18
+1%
+0#
+#20
+0"
+#25
+1"
+#28
+0%
+1#
+#30
+0"
+#35
+1%
+0!
+1"
+#38
+0%
+0#
+#40
+0"
+#45
+1"
+#48
+1%
+1#
+#50
+0"
+#55
+0%
+1!
+1"
+#58
+1%
+0#
+#60
+0"
+#65
+1"
+#68
+0%
+1#
+#70
+0"
+#75
+1%
+0!
+1"
+#78
+0%
+0#
+#80
+0"
+#85
+1"
+#88
+1%
+1#
+#90
+0"
+#95
+0%
+1!
+1"
+#98
+1%
+0#
+#100
+0"
+#105
+1"
+#108

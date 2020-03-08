@@ -1,0 +1,59 @@
+$date
+	Sun Jan 19 17:26:57 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module TB_FA $end
+$var wire 1 ! sum $end
+$var wire 1 " carry_out $end
+$var reg 1 # a $end
+$var reg 1 $ b $end
+$var reg 1 % carry_in $end
+$scope module fa_dut $end
+$var wire 1 # a $end
+$var wire 1 $ b $end
+$var wire 1 % carry_in $end
+$var reg 1 " carry_out $end
+$var reg 1 ! sum $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0%
+0$
+0#
+0"
+0!
+$end
+#5
+1!
+1%
+#10
+0%
+1$
+#15
+1"
+0!
+1%
+#20
+0"
+1!
+0%
+0$
+1#
+#25
+1"
+0!
+1%
+#30
+0%
+1$
+#35
+1!
+1%
+#45
